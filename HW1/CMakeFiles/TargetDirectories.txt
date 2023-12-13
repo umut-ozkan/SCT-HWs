@@ -1,0 +1,11 @@
+/home/umut/Programming/SCT/HW1/CMakeFiles/edit_cache.dir
+/home/umut/Programming/SCT/HW1/CMakeFiles/rebuild_cache.dir
+/home/umut/Programming/SCT/HW1/Q1/CMakeFiles/Q1.dir
+/home/umut/Programming/SCT/HW1/Q1/CMakeFiles/edit_cache.dir
+/home/umut/Programming/SCT/HW1/Q1/CMakeFiles/rebuild_cache.dir
+/home/umut/Programming/SCT/HW1/Q2/CMakeFiles/Q2.dir
+/home/umut/Programming/SCT/HW1/Q2/CMakeFiles/edit_cache.dir
+/home/umut/Programming/SCT/HW1/Q2/CMakeFiles/rebuild_cache.dir
+/home/umut/Programming/SCT/HW1/Q3/CMakeFiles/Q3.dir
+/home/umut/Programming/SCT/HW1/Q3/CMakeFiles/edit_cache.dir
+/home/umut/Programming/SCT/HW1/Q3/CMakeFiles/rebuild_cache.dir
