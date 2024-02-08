@@ -1,17 +1,9 @@
 #include <TasteBalance.h>
 
-TasteBalance::TasteBalance(int sweet, int sour, int bitter, int salty, int savory){
+TasteBalance::TasteBalance(int sweet=0, int sour=0, int bitter=0, int salty=0, int savory=0){
     this->sweet = sweet;
     this->sour = sour;
     this->bitter = bitter;
     this->salty = salty;
     this->savory = savory;
-}
-
-TasteBalance::TasteBalance(){
-    this->sweet = 0;
-    this->sour = 0;
-    this->bitter = 0;
-    this->salty = 0;
-    this->savory = 0;
 }
